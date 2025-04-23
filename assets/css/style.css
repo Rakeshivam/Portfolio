@@ -61,6 +61,13 @@
   color: grey;
 }
 
+.hackerrank {
+  color: #00cc66;
+}
+.hackerrank:hover {
+  background-color: #00cc66;
+}
+
 .icon-btn:hover {
   transform: scale(1.1);
   color: #ffffff;
